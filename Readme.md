@@ -17,7 +17,7 @@
   <h3 align="center">Task Tracker</h3>
 
   <p align="center">
-   Project from  <a href="https://www.youtube.com/watch?v=qZXt1Aom3Cs">Vue JS Crash Course</a> course from <a href="https://www.traversymedia.com/">Traversy Media</a>
+   Project from  <a href="https://www.youtube.com/watch?v=qZXt1Aom3Cs">Vue JS Crash Course</a> from <a href="https://www.traversymedia.com/">Traversy Media</a>
     <br />  
     <a href="https://github.com/fssn-dev/task-tracker--vue"><strong>Explore the docs »</strong></a>
     <br />
